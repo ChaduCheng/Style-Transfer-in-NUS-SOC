@@ -1,3 +1,3 @@
 # Style-Transfer-in-NUS-SOC
-This method uses the traditional mathematics method and deep learning. To make a video more  artistic. We transfer it from the original video to the pencil style, oil style and Van Gogh style
+This method uses the traditional mathematics method and deep learning. To make a video more  artistic. We transfer it from the original video to the pencil style, oil style and Van Gogh style.
 This project mainly implements the style transfer algorithm for converting the original image into an artistic image. The specific implementation process uses the traditional mathematical optimization and convolution algorithm to complete the pencil drawing style and oil painting style transfer, and using the Generative Adversarial Nets(GAN) to complete the Van Gogh style transfer algorithm by feature extraction and multi-dimensional feature fusion. On this basis, we complete the video artistic style transfer task.
